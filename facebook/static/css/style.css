@@ -1,0 +1,49 @@
+        .comment_list {
+            background-color : #f0f1f4;
+            border-bottom : 1px solid #bcbdc3;
+            padding-top : 0.1px;
+        }
+        .comment {
+            background-color : #fff;
+            border-radius : 30px;
+            margin : 15px;
+            padding : 15px;
+            margin-bottom : 0;
+        }
+        .comment__date {
+            margin: 0 15px;
+            padding:  8px 15px;
+            padding-bottom: 0px;
+            font-size: 13px;
+        }
+        .name {
+            font-weight : bold;
+            color : #445994;
+        }
+        .form-wrapper {
+            padding: 15px;
+        }
+        .form-wrapper input,
+        .form-wrapper textarea {
+            border: 1px solid #ddd;
+            width: 100%;
+            padding: 5px;
+            font-size: 14px;
+            box-sizing: border-box;
+            border-radius: 5px;
+            margin-top: 2px;
+            margin-bottom: 5px;
+        }
+        button {
+            border: 1px solid #405ea3;
+            background-color: #4967ad;
+            color: #fff;
+            font-weight: 500;
+            font-size: 15px;
+            padding: 3px 16px;
+            border-radius: 2px;
+        }
+        .help {
+            font-size: 14px;
+            color: #666;
+        }
